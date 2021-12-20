@@ -1,0 +1,8 @@
+.modal{
+  background-color: rgba(0,0,0,0.4)
+}
+.alert-user{
+  position: absolute;
+  top: 10px;
+  right: 0px;
+}
